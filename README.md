@@ -6,6 +6,8 @@ I'm a :computer: Trainee Software Developer at the legendary [Founders & Coders]
 
 :cityscape: Living in London :uk:
 
+---
+
 ### Current tech stack...
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -22,21 +24,3 @@ I'm a :computer: Trainee Software Developer at the legendary [Founders & Coders]
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
----
-⭐️ From [Mark](https://github.com/hanleymark)
-
-<!--
-**hanleymark/hanleymark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
