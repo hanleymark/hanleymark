@@ -1,12 +1,15 @@
-## Hi I'm Mark :technologist:
-
+## Hi I'm Mark :wave:
 <img src="cartoon-me.png" width="160" height="160" alt="cartoon me on a bike with laptop">
 
-I'm a :computer: Trainee Software Developer at the legendary [Founders & Coders](https://www.foundersandcoders.com/).
+:computer: Trainee Software Developer at the legendary [Founders & Coders](https://www.foundersandcoders.com/)
 
-:cityscape: Living in London :uk:
+:cityscape: Living in London
 
----
+:man_technologist: Passionate about coding since childhood
+
+:school: 20+ years successful teaching experience in London
+
+:arrows_counterclockwise: Changing career to software development
 
 ### Current tech stack...
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -22,5 +25,3 @@ I'm a :computer: Trainee Software Developer at the legendary [Founders & Coders]
 #### Coming soon...
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
