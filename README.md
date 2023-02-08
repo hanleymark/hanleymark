@@ -1,5 +1,4 @@
-## Hi I'm Mark :wave:
-<img src="cartoon-me.png" width="160" height="160" alt="cartoon me on a bike with laptop">
+## Hi I'm Mark (he/him) :wave:
 
 :computer: Trainee Software Developer at the legendary [Founders & Coders](https://www.foundersandcoders.com/)
 
