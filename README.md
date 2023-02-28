@@ -6,7 +6,7 @@
 
 :man_technologist: Passionate about coding since childhood
 
-:school: 20+ years successful teaching experience in London
+:school: Highly experienced outstanding-rated teacher
 
 :arrows_counterclockwise: Changing career to software development
 ### Current tech stack...
