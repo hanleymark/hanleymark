@@ -25,4 +25,3 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanleymark)](https://github.com/anuraghazra/github-readme-stats)
 ##### Follow me...
 [![GitHub followers](https://img.shields.io/github/followers/hanleymark?style=social)](https://github.com/hanleymark)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hanmark?style=social)](https://twitter.com/hanmark)
