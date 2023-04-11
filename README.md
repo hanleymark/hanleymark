@@ -4,7 +4,7 @@
 
 :cityscape: Living in London
 
-:man_technologist: Experienced software developer with some commercial experience (have developed, sold and supported automations, productivity tools and multimedia education resources within my role as educator.
+:man_technologist: Experienced software developer with some commercial experience - developed, sold and supported automations, productivity tools and multimedia education resources within my role as educator.
 
 :school: Highly experienced outstanding-rated teacher
 
