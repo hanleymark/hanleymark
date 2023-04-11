@@ -8,7 +8,7 @@
 
 :school: Highly experienced outstanding-rated teacher
 
-:arrows_counterclockwise: Changing career to software development
+:arrows_counterclockwise: Changing career from educator to software developer
 
 ### Current tech stack...
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
