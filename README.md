@@ -26,7 +26,7 @@ Looking for apprenticeship sponsor. Please email [home@markhanley.co.uk](mailto:
 ### I'm working on...
 
 * [SnakeVG](https://github.com/hanleymark/snakevg) - a chance to play around with front-end technologies like SVG rendering, CSS animation in my version of the classic snake game.
-* School report writer - an AI assisted school progress report writing productivity tool for teachers which uses generative AI
+* School report writer - a generatve AI assisted school progress report writing productivity tool for teachers
 * Portfolio - a React based portfolio web site
 
 ### Some of my work
