@@ -16,7 +16,7 @@ I have recently completed the Full-stack Web Development Bootcamp at [Founders &
 
 I will soon start the [full-time programme](https://learn.foundersandcoders.com/course/syllabus/developer/introduction/schedule/) which further develops skills in Node.js, Express.js, SQL, authentication, React and Next.js.
 
-Looking for apprenticeship sponsor. Please email [home@markhanley.co.uk](mailto:home@markhanley.co.uk) if interested.
+Looking for apprenticeship sponsor. Please email [here](mailto:dev@markhanley.co.uk) if interested.
 
 ### Interested in...
 
@@ -30,7 +30,8 @@ Looking for apprenticeship sponsor. Please email [home@markhanley.co.uk](mailto:
 * Portfolio - a React based portfolio web site
 
 ### Some of my work
-![snake game animation](https://user-images.githubusercontent.com/32879360/234254166-7dcc6aac-8b8a-4cdf-b446-a243dd031af3.gif)
+
+![snakevg-animation](https://user-images.githubusercontent.com/32879360/234254396-3f9c8c8b-d099-486c-bc09-f8024a43c169.gif)
 
 ### Current tech stack...
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
