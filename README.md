@@ -30,6 +30,7 @@ Looking for apprenticeship sponsor. Please email [home@markhanley.co.uk](mailto:
 * Portfolio - a React based portfolio web site
 
 ### Some of my work
+![snake game animation](https://user-images.githubusercontent.com/32879360/234254166-7dcc6aac-8b8a-4cdf-b446-a243dd031af3.gif)
 
 ### Current tech stack...
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
