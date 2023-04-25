@@ -12,7 +12,7 @@
 
 ### Full-stack Web Development Bootcamp
 
-I have recently completed the Full-stack Web Development Bootcamp at [Founders & Coders](https://www.foundersandcoders.com/). This is a highly-selective front-end web development course focused around three main paired-programming projects. Main stack: Git, GitHub, HTML, CSS, JavaScript. Concepts covered include web accessibility, asynchronous programming, TDD, DevOps, advanced CSS primitives and more.
+I have recently completed the Full-stack Web Development Bootcamp at [Founders & Coders](https://www.foundersandcoders.com/), a highly-selective front-end web development course focused around three main paired-programming projects. Main stack: Git, GitHub, HTML, CSS, JavaScript. Concepts covered include web accessibility, asynchronous programming, TDD, DevOps, advanced CSS primitives and more.
 
 I will soon start the [full-time programme](https://learn.foundersandcoders.com/course/syllabus/developer/introduction/schedule/) which further develops skills in Node.js, Express.js, SQL, authentication, React and Next.js.
 
