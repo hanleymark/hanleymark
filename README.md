@@ -18,6 +18,19 @@ I will soon start the [full-time programme](https://learn.foundersandcoders.com/
 
 Looking for apprenticeship sponsor. Please email [home@markhanley.co.uk](mailto:home@markhanley.co.uk) if interested.
 
+### Interested in...
+
+* Front-end/back-end/full-stack development (looking for a junior or apprentice dev role)
+* Developing web app projects, especially those which utilise my extensive experience as educator
+
+### I'm working on...
+
+* [SnakeVG](https://github.com/hanleymark/snakevg) - a chance to play around with front-end technologies like SVG rendering, CSS animation in my version of the classic snake game.
+* School report writer - an AI assisted school progress report writing productivity tool for teachers which uses generative AI
+* Portfolio - a React based portfolio web site
+
+### Some of my work
+
 ### Current tech stack...
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
