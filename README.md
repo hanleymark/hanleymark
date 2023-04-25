@@ -1,14 +1,22 @@
-## Hi I'm Mark (he/him) :wave:
+## Hi I'm Mark :wave:
 
-:computer: Trainee Web Developer at the legendary [Founders & Coders](https://www.foundersandcoders.com/)
+:computer: Full-stack Web Developer
 
-:cityscape: Living in Hackney, London
+:arrows_counterclockwise: Career changer from educator to software developer
 
 :man_technologist: Experienced coder with some commercial experience - developed, sold and supported automations, productivity tools and multimedia education resources within my role as educator
 
-:school: Highly experienced outstanding-rated teacher
+:school: Previously highly experienced outstanding-rated teacher (14 years teaching Year 6)
 
-:arrows_counterclockwise: Changing career from educator to software developer
+:cityscape: Living in Hackney, London
+
+### Full-stack Web Development Bootcamp
+
+I have recently completed the Full-stack Web Development Bootcamp at [Founders & Coders](https://www.foundersandcoders.com/). This is a highly-selective front-end web development course focused around three main paired-programming projects. Main stack: Git, GitHub, HTML, CSS, JavaScript. Concepts covered include web accessibility, asynchronous programming, TDD, DevOps, advanced CSS primitives and more.
+
+I will soon start the [full-time programme](https://learn.foundersandcoders.com/course/syllabus/developer/introduction/schedule/) which further develops skills in Node.js, Express.js, SQL, authentication, React and Next.js.
+
+Looking for apprenticeship sponsor. Please email [home@markhanley.co.uk](mailto:home@markhanley.co.uk) if interested.
 
 ### Current tech stack...
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
