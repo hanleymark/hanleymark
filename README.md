@@ -14,7 +14,7 @@
 
 I have recently completed the Full-stack Web Development Bootcamp at [Founders & Coders](https://www.foundersandcoders.com/), a highly-selective front-end web development course focused around three main paired-programming projects. Main stack: Git, GitHub, HTML, CSS, JavaScript. Concepts covered include web accessibility, asynchronous programming, TDD, DevOps, advanced CSS primitives and more.
 
-I am now completing the [full-time programme](https://learn.foundersandcoders.com/course/syllabus/developer/introduction/schedule/) which further develops skills in Node.js, Express.js, SQL, authentication, React, Next.js and test driven development. The course combines short sprint weekly projects in small development teams and culminates in development of a real commercial or not-for-profit full-stack web application for a real client as part of FAC's TechForBetter programme.
+I am now completing the [full-time programme](https://learn.foundersandcoders.com/course/syllabus/developer/introduction/schedule/) which develops skills in Node.js, Express.js, SQL, authentication, React, Next.js and test driven development. The course combines short sprint weekly projects in small development teams and culminates in development of a real commercial or not-for-profit full-stack web application for a real client as part of FAC's TechForBetter programme. We use Agile development methodologies for all team development projects.
 
 Looking for junior dev roles. Please email [here](mailto:dev@markhanley.co.uk) if interested.
 
