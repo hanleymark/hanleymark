@@ -14,9 +14,9 @@
 
 I have recently completed the Full-stack Web Development Bootcamp at [Founders & Coders](https://www.foundersandcoders.com/), a highly-selective front-end web development course focused around three main paired-programming projects. Main stack: Git, GitHub, HTML, CSS, JavaScript. Concepts covered include web accessibility, asynchronous programming, TDD, DevOps, advanced CSS primitives and more.
 
-I will soon start the [full-time programme](https://learn.foundersandcoders.com/course/syllabus/developer/introduction/schedule/) which further develops skills in Node.js, Express.js, SQL, authentication, React and Next.js.
+I am now completing the [full-time programme](https://learn.foundersandcoders.com/course/syllabus/developer/introduction/schedule/) which further develops skills in Node.js, Express.js, SQL, authentication, React, Next.js and test driven development. The course combines short sprint weekly projects in small development teams and culminates in development of a real commercial or not-for-profit full-stack web application for a real client as part of FAC's TechForBetter programme.
 
-Looking for apprenticeship sponsor. Please email [here](mailto:dev@markhanley.co.uk) if interested.
+Looking for junior dev roles. Please email [here](mailto:dev@markhanley.co.uk) if interested.
 
 ### Interested in...
 
@@ -31,13 +31,16 @@ Looking for apprenticeship sponsor. Please email [here](mailto:dev@markhanley.co
 
 ### Some of my work
 
-![snakevg-animation](https://user-images.githubusercontent.com/32879360/234254396-3f9c8c8b-d099-486c-bc09-f8024a43c169.gif)
+![snakevg game](https://user-images.githubusercontent.com/32879360/234254396-3f9c8c8b-d099-486c-bc09-f8024a43c169.gif)
+
+![colour palette app](https://github.com/hanleymark/hanleymark/assets/32879360/eb9caa40-3108-4148-9a7f-1544a58e83f5)
 
 ### Current tech stack...
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/Expressjs-404D59?style=for-the-badge&logo=Express)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ### Other skills...
