@@ -12,11 +12,9 @@
 
 ### Full-stack Web Development Bootcamp
 
-I have recently completed the Full-stack Web Development Bootcamp at [Founders & Coders](https://www.foundersandcoders.com/), a highly-selective front-end web development course focused around three main paired-programming projects. Main stack: Git, GitHub, HTML, CSS, JavaScript. Concepts covered include web accessibility, asynchronous programming, TDD, DevOps, advanced CSS primitives and more.
+I recently completed the highly selective full-stack web development full-time training programme at [Founders and Coders](https://www.foundersandcoders.com/) where I now mentor the current cohort. Throughout the programme, we worked in small development teams on a range of projects and followed agile product design and development methodologies. I was able to develop a broad array of skills and experience in areas such as HTML, JavaScript, TypeScript, CSS, Node, React, NextJS, ExpressJS, Supabase, Postgres, SQL, Git and GitHub, TDD with Jest and Cypress, CI/CD. I also have an MSc in Computing Science from the University of London.
 
-I am now completing the [full-time programme](https://learn.foundersandcoders.com/course/syllabus/developer/introduction/schedule/) which develops skills in Node.js, Express.js, SQL, authentication, React, Next.js and test driven development. The course combines short sprint weekly projects in small development teams and culminates in development of a real commercial or not-for-profit full-stack web application for a real client as part of FAC's TechForBetter programme. We use Agile/Scrum workflows for all team development projects.
-
-Looking for junior dev roles. Please email [here](mailto:dev@markhanley.co.uk) if interested.
+Currently on the look out for junior dev roles. Please email [here](mailto:dev@markhanley.co.uk) if interested.
 
 ### Interested in...
 
@@ -25,7 +23,7 @@ Looking for junior dev roles. Please email [here](mailto:dev@markhanley.co.uk) i
 
 ### I'm working on...
 
-* [SnakeVG](https://github.com/hanleymark/snakevg) - a chance to play around with front-end technologies like SVG rendering, CSS animation in my version of the classic snake game.
+* Currently developing a customer loyalty platform for a small start-up organisation
 * School report writer - a generatve AI assisted school progress report writing productivity tool for teachers
 * Portfolio - a React based portfolio web site
 
