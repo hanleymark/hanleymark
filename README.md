@@ -10,7 +10,7 @@
 
 :cityscape: Living in Hackney, London
 
-### Full-stack Web Development Bootcamp
+### Full-stack Web Development
 
 I recently completed the highly selective full-stack web development full-time training programme at [Founders and Coders](https://www.foundersandcoders.com/) where I now mentor the current cohort. Throughout the programme, we worked in small development teams on a range of projects and followed agile product design and development methodologies. I was able to develop a broad array of skills and experience in areas such as HTML, JavaScript, TypeScript, CSS, Node, React, NextJS, ExpressJS, Supabase, Postgres, SQL, Git and GitHub, TDD with Jest and Cypress, CI/CD. I also have an MSc in Computing Science from the University of London.
 
