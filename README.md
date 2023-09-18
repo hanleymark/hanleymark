@@ -29,7 +29,21 @@ Currently on the look out for junior dev roles. Please email [here](mailto:dev@m
 
 ### Some of my work
 
+#### Rent-Shield
+
+A full-stack web app aiming to match renters with property owners. Tech stack: NextJS 13, TypeScript, Tailwind CSS, FlowBite CSS, Supabase + Postgres.
+
+<img src="https://github.com/hanleymark/hanleymark/assets/32879360/ff85a501-a1ae-46fd-84cd-c0593dc7ea77" width="300" />
+
+#### Snake game
+
+A simple version of the classic snake game displayed entirely using SVG with CSS animations.
+
 ![snakevg game](https://user-images.githubusercontent.com/32879360/234254396-3f9c8c8b-d099-486c-bc09-f8024a43c169.gif)
+
+#### Colour palette
+
+Vanilla HTML, JavaScript and CSS colour palette picker.
 
 ![colour palette app](https://github.com/hanleymark/hanleymark/assets/32879360/eb9caa40-3108-4148-9a7f-1544a58e83f5)
 
