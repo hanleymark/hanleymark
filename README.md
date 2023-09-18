@@ -55,6 +55,7 @@ Vanilla HTML, JavaScript and CSS colour palette picker.
 ![Expressjs](https://img.shields.io/badge/Expressjs-404D59?style=for-the-badge&logo=Express)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 ### Other skills...
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
