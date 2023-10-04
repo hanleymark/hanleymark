@@ -31,7 +31,7 @@ Currently on the look out for junior dev roles. Please email [here](mailto:dev@m
 
 #### Rent-Shield
 
-A full-stack web app aiming to match renters with property owners. Tech stack: NextJS 13, TypeScript, Tailwind CSS, FlowBite CSS, Supabase + Postgres.
+A full-stack web app aiming to match renters with property owners Built by our team of four as an MVP for a real product owner as part of the Founders and Coders Tech for Better project. Tech stack: NextJS 13, TypeScript, Tailwind CSS, FlowBite CSS, Supabase + Postgres.
 
 <img src="https://github.com/hanleymark/hanleymark/assets/32879360/ff85a501-a1ae-46fd-84cd-c0593dc7ea77" width="300" />
 
